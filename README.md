@@ -2,7 +2,7 @@
 
 Retired investment professional, now free to build digital things with AI tools.
 
-[Entangled Particles](https://www.entangledparticles.xyz) - personal website
+[Entangled Particles](https://entangledparticles.xyz) - personal website
 
 [LinkedIn](https://www.linkedin.com/in/robschoen/) - Rob Schoen
 
